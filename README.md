@@ -1,13 +1,13 @@
 # Algoritmos y Estructuras de Datos - 082021
-## - Profesor
+## Profesor
   José María Sola
-## - Curso
+## Curso
   K1253 (N)
-## - Año de cursada
+## Año de cursada
   2022
-## - Legajo
+## Legajo
   083480-6
-## - Apellido
+## Apellido
   Venator Rauch
-## - Nombre
+## Nombre
   Curt

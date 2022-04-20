@@ -4,7 +4,7 @@ José María Sola
 ## Curso
 K1253 (N)
 ## Año de cursada
-  2022
+2022
 ## Legajo
 083480-6
 ## Apellido
